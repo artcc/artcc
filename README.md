@@ -74,11 +74,17 @@ When I'm not coding, you'll find me underwater exploring the ocean depths 🌊
 - 🎵 [**Music Control**](https://www.arturocarreterocalvo.com/music-control-stream-deck-plugin/)  
   Free, local Apple Music controls for Stream Deck on macOS Tahoe and later. View album artwork, control playback, mark favorites and adjust volume, with dial support on Stream Deck+.
 
+- ✅ [**Reminders Control**](https://www.arturocarreterocalvo.com/reminders-control-stream-deck-plugin/)  
+  Four Stream Deck actions for Apple Reminders on macOS: count pending tasks, open the next reminder, create tasks from saved templates and jump to a list. No additional sign-in or telemetry; completing and editing tasks stay in Reminders.
+
 - 🌱 [**Repo Garden**](https://www.arturocarreterocalvo.com/repo-garden-stream-deck-plugin/)  
   Stream Deck plugin that turns local Git repositories into pixel plants showing changes, commits to push or pull, and conflicts. Press for Git details. Read-only, with no account or telemetry.
 
 - 🤖 [**Server Pets**](https://www.arturocarreterocalvo.com/server-pets-stream-deck-plugin)  
   Monitor Glances servers on Stream Deck with a Robot, Cyber Cat or Digital Slime. Set CPU, RAM and disk alert thresholds, tap for live metrics and hold to open your dashboard. Requires Glances API v4; no telemetry.
+
+- ☑️ [**Things Control**](https://www.arturocarreterocalvo.com/things-control-stream-deck-plugin/)  
+  Eight Stream Deck actions for Things 3 on macOS: open destinations, capture ideas, create task and project templates, search, count pending tasks and manage visible or selected tasks. Uses local automation and Things links, with no analytics or external task-data service.
 
 - ⏱️ [**Time Ledger**](https://www.arturocarreterocalvo.com/time-ledger-stream-deck-plugin/)  
   Local time tracker for Stream Deck. Switch activities with one press, review daily and weekly totals, edit sessions and export CSV reports. No account, telemetry or cloud service.
