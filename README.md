@@ -59,6 +59,9 @@ When I'm not coding, you'll find me underwater exploring the ocean depths 🌊
 - 🚀 [**App Store Connect Deck**](https://www.arturocarreterocalvo.com/app-store-connect-deck-stream-deck-plugin)  
   Six Stream Deck actions to follow builds, distribute to TestFlight groups, monitor App Store releases and phased rollouts, and watch or run Xcode Cloud workflows. Connects directly to Apple with your team API key, with no telemetry or intermediary service.
 
+- 📅 [**Calendar Control**](https://www.arturocarreterocalvo.com/calendar-control-stream-deck-plugin)  
+  Nine Stream Deck actions for macOS Calendar: view events and your agenda, open meeting links, check availability, create events and reserve focus time. Includes Stream Deck+ dial support for Agenda and Reserve Time. Requires an Apple Silicon Mac with macOS 26+, Stream Deck 7.1+ and iCloud configured in Calendar.
+
 - 🦖 [**Commit Critters**](https://www.arturocarreterocalvo.com/commit-critters-stream-deck-plugin/)  
   Raise a T. rex on Stream Deck with your local Git projects. Three eligible commits detected in one day earn a growth day, unlocking new stages and rewards. Read-only, with no streaks, account or telemetry.
 
