@@ -77,6 +77,9 @@ When I'm not coding, you'll find me underwater exploring the ocean depths 🌊
 - 🎵 [**Music Control**](https://www.arturocarreterocalvo.com/music-control-stream-deck-plugin/)  
   Free, local Apple Music controls for Stream Deck on macOS Tahoe and later. View album artwork, control playback, mark favorites and adjust volume, with dial support on Stream Deck+.
 
+- 📝 [**Notes Control**](https://www.arturocarreterocalvo.com/notes-control-stream-deck-plugin)  
+  Seven Stream Deck actions for Apple Notes: create notes, use templates, capture clipboard text, open notes and folders, search titles and browse recent notes. Includes Stream Deck+ dial support for Recent Notes. Requires an Apple Silicon Mac with macOS 26+ and Stream Deck 7.1+; no plugin backend or telemetry.
+
 - ✅ [**Reminders Control**](https://www.arturocarreterocalvo.com/reminders-control-stream-deck-plugin/)  
   Four Stream Deck actions for Apple Reminders on macOS: count pending tasks, open the next reminder, create tasks from saved templates and jump to a list. No additional sign-in or telemetry; completing and editing tasks stay in Reminders.
 
